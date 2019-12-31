@@ -40,3 +40,6 @@ npm i -S axios
 npm i -S pubsub-js
 npm i -S element-ui
 ```
+
+## commit 3 
+封装及测试axios
