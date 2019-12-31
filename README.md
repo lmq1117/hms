@@ -32,3 +32,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/zh/config/#%E5%85%A8%E5%B1%80-cli-%E9%85%8D%E7%BD%AE).
+
+## commit 2
+添加vue.config.js 并安装第三方库 引入element-ui
+```
+npm i -S axios
+npm i -S pubsub-js
+npm i -S element-ui
+```
