@@ -73,6 +73,7 @@
 <script>
 import testApi from "@/api/test";
 import testExportObj from "@/api/testExportObj";
+import testProxy from "@/api/testProxy";
 export default {
   name: "HelloWorld",
   props: {
